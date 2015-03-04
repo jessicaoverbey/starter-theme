@@ -1,1 +1,1 @@
-Starter Theme created with Neatly Polished tutorial.
+Starter Theme created with the Neatly Polished tutorial.
